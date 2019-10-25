@@ -1,0 +1,74 @@
+{
+  "uuid": "971094a5-9ba5-465f-a00c-8d0f07c46b7e-tr-0-1007",
+  "historyId": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.AuthorizationRM",
+  "fullName": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.AuthorizationRM",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "AuthorizationRM"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "AuthorizationRM",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.DriverServiceNotFoundException : The file D:/Downloads/edgedriver_win64\\MicrosoftWebDriver.exe does not exist. The driver can be downloaded at http://go.microsoft.com/fwlink/?LinkId=619687\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)\r\n   at OpenQA.Selenium.Edge.EdgeDriver..ctor(String edgeDriverDirectory, EdgeOptions options)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+  },
+  "stage": "finished",
+  "description": "\nInitializeTest SetUp method failed\n\nCleanUp TearDown method failed\n",
+  "steps": [
+    {
+      "name": "AuthorizationRM skipped because of InitializeTest failure",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.DriverServiceNotFoundException : The file D:/Downloads/edgedriver_win64\\MicrosoftWebDriver.exe does not exist. The driver can be downloaded at http://go.microsoft.com/fwlink/?LinkId=619687\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)\r\n   at OpenQA.Selenium.Edge.EdgeDriver..ctor(String edgeDriverDirectory, EdgeOptions options)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "2bb8a3f0efd44d5c8c50c4a0d31a0d84-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1569585779806,
+      "stop": 1569585779899
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1569585779805,
+  "stop": 1569585779910
+}

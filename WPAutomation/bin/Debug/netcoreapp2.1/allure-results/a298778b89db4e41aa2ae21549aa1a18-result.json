@@ -1,0 +1,73 @@
+{
+  "uuid": "32509905-9639-4cb9-ac0e-6d84f50cb8e4-tr-0-1011",
+  "historyId": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "fullName": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "WrongLoginOrPasswordNotExistingUser"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "WrongLoginOrPasswordNotExistingUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Text of error message is wrong\r\n  Expected string length 24 but was 25. Strings differ at index 24.\r\n  Expected: \"Wrong login or password.\"\r\n  But was:  \"Wrong login or password..\"\r\n  -----------------------------------^\r\n",
+    "trace": "   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 80\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "WrongLoginOrPasswordNotExistingUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Text of error message is wrong\r\n  Expected string length 24 but was 25. Strings differ at index 24.\r\n  Expected: \"Wrong login or password.\"\r\n  But was:  \"Wrong login or password..\"\r\n  -----------------------------------^\r\n",
+        "trace": "   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 80\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "b58dec4b5a9d41ab8d0528489acdd567-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1568136881524,
+      "stop": 1568136888620
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1568136881524,
+  "stop": 1568136888620
+}

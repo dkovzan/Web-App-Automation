@@ -1,0 +1,44 @@
+{
+  "uuid": "cbee25a1-ea54-43d2-bd66-bba774b9863d-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut",
+  "children": [
+    "7e8fdbd6-35dd-4f3a-ac5b-e5d49e868dc7-tr-0-1008"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571752342816,
+      "stop": 1571752342816
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571752342817,
+      "stop": 1571752342817
+    }
+  ],
+  "links": [],
+  "start": 1571752335477,
+  "stop": 1571752342822
+}

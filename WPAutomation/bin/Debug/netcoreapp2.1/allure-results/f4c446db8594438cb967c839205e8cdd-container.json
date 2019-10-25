@@ -1,0 +1,44 @@
+{
+  "uuid": "4e6189f5-0e80-4eb7-97bc-112abd566ed5-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.SignInBtnDisabledWhenLoginPasswordEmpty",
+  "children": [
+    "622e7a34-4445-498e-a155-484fde07c9e7-tr-0-1009"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569586420021,
+      "stop": 1569586420021
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569586420021,
+      "stop": 1569586420021
+    }
+  ],
+  "links": [],
+  "start": 1569586409316,
+  "stop": 1569586420023
+}

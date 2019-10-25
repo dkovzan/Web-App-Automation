@@ -1,0 +1,69 @@
+{
+  "uuid": "142b5e3c-8765-47b6-b2bd-d6465783a879-tr-0-1006",
+  "historyId": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.AuthorizationWP",
+  "fullName": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.AuthorizationWP",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "AuthorizationWP"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "AuthorizationWP",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "AuthorizationWP",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "9a668a5078f74e10a00bc37d733d3820-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1569586357885,
+      "stop": 1569586369657
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1569586357885,
+  "stop": 1569586369657
+}

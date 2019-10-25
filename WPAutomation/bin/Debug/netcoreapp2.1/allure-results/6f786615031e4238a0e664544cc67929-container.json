@@ -1,0 +1,44 @@
+{
+  "uuid": "0d267abc-3ef4-4b77-bb5a-13a80547c794-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "children": [
+    "32509905-9639-4cb9-ac0e-6d84f50cb8e4-tr-0-1011"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1568136888618,
+      "stop": 1568136888618
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1568136888618,
+      "stop": 1568136888618
+    }
+  ],
+  "links": [],
+  "start": 1568136881523,
+  "stop": 1568136888623
+}

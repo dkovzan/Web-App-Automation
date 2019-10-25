@@ -1,0 +1,69 @@
+{
+  "uuid": "57d1a622-32a8-4773-a13d-d05a8ed730b2-tr-0-1009",
+  "historyId": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.SignInBtnDisabledWhenLoginPasswordEmpty",
+  "fullName": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.SignInBtnDisabledWhenLoginPasswordEmpty",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "13"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "SignInBtnDisabledWhenLoginPasswordEmpty"
+    },
+    {
+      "name": "package",
+      "value": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "SignInBtnDisabledWhenLoginPasswordEmpty",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "SignInBtnDisabledWhenLoginPasswordEmpty",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "d5cd9efbaf524ba89eceaaa3b4c7baee-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1571756151225,
+      "stop": 1571756158431
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1571756151225,
+  "stop": 1571756158431
+}

@@ -1,0 +1,48 @@
+{
+  "uuid": "522119bf-3cdf-4748-ba20-d6ee66f9cbff-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.SignInBtnDisabledWhenLoginEmptyPasswordFilled",
+  "children": [
+    "b79a9b4c-c613-4185-8f9a-60b6d42b7daa-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.DriverServiceNotFoundException : The file D:/Downloads/edgedriver_win64\\MicrosoftWebDriver.exe does not exist. The driver can be downloaded at http://go.microsoft.com/fwlink/?LinkId=619687\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)\r\n   at OpenQA.Selenium.Edge.EdgeDriver..ctor(String edgeDriverDirectory, EdgeOptions options)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569585779963,
+      "stop": 1569585779963
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.DriverServiceNotFoundException : The file D:/Downloads/edgedriver_win64\\MicrosoftWebDriver.exe does not exist. The driver can be downloaded at http://go.microsoft.com/fwlink/?LinkId=619687\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at OpenQA.Selenium.DriverService..ctor(String servicePath, Int32 port, String driverServiceExecutableName, Uri driverServiceDownloadUrl)\r\n   at OpenQA.Selenium.Edge.EdgeDriver..ctor(String edgeDriverDirectory, EdgeOptions options)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569585779963,
+      "stop": 1569585779963
+    }
+  ],
+  "links": [],
+  "start": 1569585779961,
+  "stop": 1569585779964
+}

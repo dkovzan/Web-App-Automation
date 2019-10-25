@@ -1,0 +1,48 @@
+{
+  "uuid": "639f1918-d289-46b2-9c7e-da2501305b30-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut",
+  "children": [
+    "e92f3efe-9fef-4448-a812-0e6b977a4eb2-tr-0-1008"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.WebDriverException : Unexpected error. Unknown error\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569585874339,
+      "stop": 1569585874339
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.WebDriverException : Unexpected error. Unknown error\r\nTearDown : System.NullReferenceException : Object reference not set to an instance of an object.",
+        "trace": "   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.StartSession(ICapabilities desiredCapabilities)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver..ctor(ICommandExecutor commandExecutor, ICapabilities desiredCapabilities)\r\n   at NUnitTestProject1.Hooks.SelectBrowser(BrowserType browserType) in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Hooks.cs:line 24\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.InitializeTest() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 20\r\n--TearDown\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.CleanUp() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 28"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1569585874339,
+      "stop": 1569585874339
+    }
+  ],
+  "links": [],
+  "start": 1569585873815,
+  "stop": 1569585874342
+}

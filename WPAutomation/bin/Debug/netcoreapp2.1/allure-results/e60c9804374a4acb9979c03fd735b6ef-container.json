@@ -1,0 +1,44 @@
+{
+  "uuid": "c75beda1-625c-4748-a397-685f4acf32e8-tc-0-1004",
+  "name": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "children": [
+    "a49d3200-225c-429f-a262-693bb6b7ce70-tr-0-1011"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756174543,
+      "stop": 1571756174543
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756174543,
+      "stop": 1571756174543
+    }
+  ],
+  "links": [],
+  "start": 1571756158435,
+  "stop": 1571756174548
+}

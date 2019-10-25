@@ -1,0 +1,73 @@
+{
+  "uuid": "7e8fdbd6-35dd-4f3a-ac5b-e5d49e868dc7-tr-0-1008",
+  "historyId": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut",
+  "fullName": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "LoggingOut"
+    },
+    {
+      "name": "package",
+      "value": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "LoggingOut",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <div _ngcontent-c3=\"\" class=\"nav-opener\">...</div> is not clickable at point (55, 30). Other element would receive the click: <div _ngcontent-c0=\"\" class=\"spinner customSpinner\">...</div>\n  (Session info: chrome=77.0.3865.120)",
+    "trace": "   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Click()\r\n   at NUnitTestProject1.PageObjects.Header.OpenNavBar() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\PageObjects\\Header.cs:line 70\r\n   at NUnitTestProject1.PageObjects.Header.Logout() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\PageObjects\\Header.cs:line 109\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 57"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "LoggingOut",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <div _ngcontent-c3=\"\" class=\"nav-opener\">...</div> is not clickable at point (55, 30). Other element would receive the click: <div _ngcontent-c0=\"\" class=\"spinner customSpinner\">...</div>\n  (Session info: chrome=77.0.3865.120)",
+        "trace": "   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)\r\n   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.Remote.RemoteWebElement.Click()\r\n   at NUnitTestProject1.PageObjects.Header.OpenNavBar() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\PageObjects\\Header.cs:line 70\r\n   at NUnitTestProject1.PageObjects.Header.Logout() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\PageObjects\\Header.cs:line 109\r\n   at NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut() in C:\\Users\\KovzanDS\\source\\repos\\NUnitTestProject1\\NUnitTestProject1\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 57"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "dd98961d4f904fa2a157a49d00dd68dd-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1571752335477,
+      "stop": 1571752342820
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1571752335477,
+  "stop": 1571752342820
+}

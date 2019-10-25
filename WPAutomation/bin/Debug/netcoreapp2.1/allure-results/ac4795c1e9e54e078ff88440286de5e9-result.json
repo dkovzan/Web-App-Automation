@@ -1,0 +1,73 @@
+{
+  "uuid": "a49d3200-225c-429f-a262-693bb6b7ce70-tr-0-1011",
+  "historyId": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "fullName": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "13"
+    },
+    {
+      "name": "host",
+      "value": "QWS-KDS-10"
+    },
+    {
+      "name": "testClass",
+      "value": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    },
+    {
+      "name": "testMethod",
+      "value": "WrongLoginOrPasswordNotExistingUser"
+    },
+    {
+      "name": "package",
+      "value": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite"
+    }
+  ],
+  "links": [
+    {
+      "name": "https://github.com/unickq/allure-nunit",
+      "url": "https://github.com/unickq/allure-nunit",
+      "type": "link"
+    }
+  ],
+  "name": "WrongLoginOrPasswordNotExistingUser",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Text of error message is wrong\r\n  Expected string length 24 but was 25. Strings differ at index 24.\r\n  Expected: \"Wrong login or password.\"\r\n  But was:  \"Wrong login or password..\"\r\n  -----------------------------------^\r\n",
+    "trace": "   at WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser() in C:\\Users\\KovzanDS\\source\\repos\\WPAutomation\\WPAutomation\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 80\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "WrongLoginOrPasswordNotExistingUser",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Text of error message is wrong\r\n  Expected string length 24 but was 25. Strings differ at index 24.\r\n  Expected: \"Wrong login or password.\"\r\n  But was:  \"Wrong login or password..\"\r\n  -----------------------------------^\r\n",
+        "trace": "   at WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.WrongLoginOrPasswordNotExistingUser() in C:\\Users\\KovzanDS\\source\\repos\\WPAutomation\\WPAutomation\\Tests\\SmokeSuite\\CC\\LoginFormTestsSuite.cs:line 80\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "fccd6f1746e54069b637839653675101-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1571756158435,
+      "stop": 1571756174544
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1571756158435,
+  "stop": 1571756174544
+}

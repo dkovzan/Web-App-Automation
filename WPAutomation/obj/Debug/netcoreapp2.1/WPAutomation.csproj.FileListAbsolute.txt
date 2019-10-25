@@ -1,0 +1,17 @@
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\allureConfig.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\categories.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\WPAutomation.deps.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\WPAutomation.runtimeconfig.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\WPAutomation.runtimeconfig.dev.json
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\WPAutomation.dll
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\bin\Debug\netcoreapp2.1\WPAutomation.pdb
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\obj\Debug\netcoreapp2.1\WPAutomation.csprojAssemblyReference.cache
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\obj\Debug\netcoreapp2.1\WPAutomation.AssemblyInfoInputs.cache
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\obj\Debug\netcoreapp2.1\WPAutomation.AssemblyInfo.cs
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\obj\Debug\netcoreapp2.1\WPAutomation.dll
+C:\Users\KovzanDS\source\repos\WPAutomation\WPAutomation\obj\Debug\netcoreapp2.1\WPAutomation.pdb

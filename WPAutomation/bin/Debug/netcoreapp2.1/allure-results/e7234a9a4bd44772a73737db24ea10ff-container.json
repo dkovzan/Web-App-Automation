@@ -1,0 +1,44 @@
+{
+  "uuid": "b6d64ca7-8c9c-4287-a3de-6d856b841c18-tc-0-1004",
+  "name": "NUnitTestProject1.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoginPageTitle",
+  "children": [
+    "f8389d01-eed6-40ba-a9ea-05f006767c99-tr-0-1005"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1568136867584,
+      "stop": 1568136867584
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1568136867584,
+      "stop": 1568136867584
+    }
+  ],
+  "links": [],
+  "start": 1568136860956,
+  "stop": 1568136867586
+}

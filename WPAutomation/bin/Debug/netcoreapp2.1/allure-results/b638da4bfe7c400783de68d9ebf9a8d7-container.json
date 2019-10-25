@@ -1,0 +1,44 @@
+{
+  "uuid": "837b84fa-0370-441d-8a0e-e4e8ed06e8c0-tc-0-1004",
+  "name": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.AuthorizationRM",
+  "children": [
+    "bb084ca1-6b46-49cc-b95e-3bbca3175451-tr-0-1007"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756084798,
+      "stop": 1571756084798
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756084799,
+      "stop": 1571756084799
+    }
+  ],
+  "links": [],
+  "start": 1571756076895,
+  "stop": 1571756084851
+}

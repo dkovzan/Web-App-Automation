@@ -1,0 +1,44 @@
+{
+  "uuid": "71a3cde0-74cc-4378-898f-25910c4ca642-tc-0-1004",
+  "name": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.LoggingOut",
+  "children": [
+    "6c52fc12-5f4f-4bd2-b319-2e7ca9e8eb68-tr-0-1008"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756137175,
+      "stop": 1571756137175
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756137175,
+      "stop": 1571756137175
+    }
+  ],
+  "links": [],
+  "start": 1571756092427,
+  "stop": 1571756137179
+}

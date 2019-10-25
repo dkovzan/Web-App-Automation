@@ -1,0 +1,44 @@
+{
+  "uuid": "841eb96a-daed-48b4-8daf-40c296f14b2a-tc-0-1004",
+  "name": "WPAutomation.Tests.SmokeSuite.CC.LoginFormTestsSuite.SignInBtnDisabledWhenLoginEmptyPasswordFilled",
+  "children": [
+    "00ef6d87-1068-4309-9746-6ef1e8724444-tr-0-1010"
+  ],
+  "befores": [
+    {
+      "name": "InitializeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756151218,
+      "stop": 1571756151218
+    }
+  ],
+  "afters": [
+    {
+      "name": "CleanUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1571756151218,
+      "stop": 1571756151218
+    }
+  ],
+  "links": [],
+  "start": 1571756144150,
+  "stop": 1571756151221
+}
