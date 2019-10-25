@@ -49,7 +49,7 @@ namespace WPAutomation.PageObjects.MainTabs
 
         public Offerings SignInAsExistingWpUser()
         {
-            return SignIn("u30111", "AIPxVfBJp1A+1");
+            return SignIn("login", "password");
         }
     }
 }

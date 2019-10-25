@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Shared\\WPAutomation\\WPAutomation\\WPAutomation.csproj": {}
+    "d:\\Learning\\TestAutomation\\Web App Automation\\Web-App-Automation\\WPAutomation\\WPAutomation.csproj": {}
   },
   "projects": {
-    "d:\\Shared\\WPAutomation\\WPAutomation\\WPAutomation.csproj": {
+    "d:\\Learning\\TestAutomation\\Web App Automation\\Web-App-Automation\\WPAutomation\\WPAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Shared\\WPAutomation\\WPAutomation\\WPAutomation.csproj",
+        "projectUniqueName": "d:\\Learning\\TestAutomation\\Web App Automation\\Web-App-Automation\\WPAutomation\\WPAutomation.csproj",
         "projectName": "WPAutomation",
-        "projectPath": "d:\\Shared\\WPAutomation\\WPAutomation\\WPAutomation.csproj",
+        "projectPath": "d:\\Learning\\TestAutomation\\Web App Automation\\Web-App-Automation\\WPAutomation\\WPAutomation.csproj",
         "packagesPath": "C:\\Users\\KovzanDS\\.nuget\\packages\\",
-        "outputPath": "d:\\Shared\\WPAutomation\\WPAutomation\\obj\\",
+        "outputPath": "d:\\Learning\\TestAutomation\\Web App Automation\\Web-App-Automation\\WPAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
